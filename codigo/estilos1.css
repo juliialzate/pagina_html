@@ -1,0 +1,42 @@
+table {
+    margin-bottom: 25px; 
+}
+
+td[colspan="3"] {
+    text-align: center; 
+}
+
+tr:nth-child(1) {
+    text-align: center;
+    background-color: #C78880; 
+    color: rgb(255, 255, 255);
+}
+
+tr:nth-child(2) {
+    text-align: center;
+    background-color: #C78880;
+    color: rgb(255, 255, 255);
+}
+
+tr:nth-child(6) {
+    text-align: center;
+    background-color: #024b53;
+    color: rgb(255, 255, 255);
+}
+
+tr:nth-child(3),
+tr:nth-child(4),
+tr:nth-child(5) {
+    text-align: center;
+    background-color: #D4FFE4;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    color: #024b53; 
+    font-weight: bold;
+}
+
+html {
+    background-image: url('/imagenes/cafe.jpg');
+}
